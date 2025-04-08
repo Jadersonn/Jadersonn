@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Olá 👋
 Me chamo Jaderson da Silva Pillar Martins. Sou soldado no exército brasileiro, até o dia 01/03/2026, integro a seção de TI na faixa de fronteira do Brasil com a Bolívia. Sou formado em Análise e desenvolvimento de sistemas pelo Instituto Federal de Mato Grosso do Sul.
-Minhas atribuições em minha organização militar são amplas e vão desde a manutenção de hardware até o gerenciamento da infraestrutura de ti. Atuo como desenvolvedor e gestor da pagina Web Intranet e Internet (utilizando o framework joomla), analista e admnistrador de rede da organização militar.
+Minhas atribuições em minha organização militar são amplas e vão desde a manutenção de hardware até o gerenciamento da infraestrutura de ti. Atuo como desenvolvedor e gestor da pagina Web Intranet e Internet (utilizando o framework joomla), analista e administrador de rede da organização militar.
 ##
 Estou sempre buscando novos conhecimentos, tenho disponibilidade para atuação fora do meu horario de trabalho, tendo disponibilidade também para projetos não remunerados, ranking das tecnologias que possuo afinidade:
 <table>
