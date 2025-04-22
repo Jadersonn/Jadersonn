@@ -29,6 +29,12 @@ Estou sempre buscando novos conhecimentos, tenho disponibilidade para atuação 
         <tr><td>1</td><td>MVC</td></tr>
         <tr><td>2</td><td>DDD</td></tr>
       </table>
+      <br>
+      <table>
+        <tr><th>RANK</th><th>Banco de Dados</th></tr>
+        <tr><td>1</td><td>MySQL</td></tr>
+        <tr><td>2</td><td>PostgreSQL</td></tr>
+      </table>
     </td>
     <td style="padding-left: 30px;">
       <div align="center"><strong>💻 Linguagens</strong></div>
