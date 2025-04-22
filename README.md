@@ -40,7 +40,7 @@ Estou sempre buscando novos conhecimentos, tenho disponibilidade para atuação 
         <tr><td>4</td><td>C</td></tr>
       </table>
     </td>
-    <td style="padding-left: 40px;">
+    <td style="padding-left: 30px;">
       <div align="center"><strong>🚀 Frameworks</strong></div>
       <table>
         <tr><th>RANK</th><th>FRAMEWORKS</th></tr>
@@ -52,7 +52,7 @@ Estou sempre buscando novos conhecimentos, tenho disponibilidade para atuação 
         <tr><td>6</td><td>BOOTSTRAP</td></tr>
       </table>
     </td>
-    <td style="padding-left: 40px;">
+    <td style="padding-left: 30px;">
       <div align="center"><strong>🎲 Banco de Dados</strong></div>
       <table>
         <tr><th>RANK</th><th>Banco de Dados</th></tr>
