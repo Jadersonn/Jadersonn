@@ -24,18 +24,17 @@ Estou sempre buscando novos conhecimentos, tenho disponibilidade para atuação 
   <tr valign="top">
     <td>
       <div align="center"><strong>🧱 Padrões de Projeto</strong></div>
-      <table>
+      <table width="250px">
         <tr><th>RANK</th><th>PADRÕES DE PROJETO</th></tr>
         <tr><td>1</td><td>MVC</td></tr>
         <tr><td>2</td><td>DDD</td></tr>
       </table>
       <div align="center"><strong>🎲 Banco de Dados</strong></div>
-      <table>
+      <table width="250px">
         <tr><th>RANK</th><th>Banco de Dados</th></tr>
         <tr><td>1</td><td>MySQL</td></tr>
         <tr><td>2</td><td>PostgreSQL</td></tr>
       </table>
-    </td>
     </td>
     <td style="padding-left: 30px;">
       <div align="center"><strong>💻 Linguagens</strong></div>
@@ -61,9 +60,6 @@ Estou sempre buscando novos conhecimentos, tenho disponibilidade para atuação 
     </td>
   </tr>
 </table>
-
-
-
 
 
 ##
