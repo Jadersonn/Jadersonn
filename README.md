@@ -36,7 +36,7 @@ Estou sempre buscando novos conhecimentos, tenho disponibilidade para atuação 
         <tr><td>2</td><td>PostgreSQL</td></tr>
       </table>
     </td>
-    <td style="padding-left: 30px;">
+    <td style="padding-left: 40px;">
       <div align="center"><strong>💻 Linguagens</strong></div>
       <table>
         <tr><th>RANK</th><th>LINGUAGENS</th></tr>
@@ -46,7 +46,7 @@ Estou sempre buscando novos conhecimentos, tenho disponibilidade para atuação 
         <tr><td>4</td><td>C</td></tr>
       </table>
     </td>
-    <td style="padding-left: 30px;">
+    <td style="padding-left: 40px;">
       <div align="center"><strong>🚀 Frameworks</strong></div>
       <table>
         <tr><th>RANK</th><th>FRAMEWORKS</th></tr>
