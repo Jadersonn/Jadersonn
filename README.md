@@ -30,7 +30,7 @@ Estou sempre buscando novos conhecimentos, tenho disponibilidade para atuação 
         <tr><td>2</td><td>DDD</td></tr>
       </table>
     </td>
-    <td style="padding-left: 40px;">
+    <td style="padding-left: 30px;">
       <div align="center"><strong>💻 Linguagens</strong></div>
       <table>
         <tr><th>RANK</th><th>LINGUAGENS</th></tr>
