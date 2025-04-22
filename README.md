@@ -21,7 +21,7 @@ Minhas atribuições em minha organização militar são amplas e vão desde a m
 ##
 Estou sempre buscando novos conhecimentos, tenho disponibilidade para atuação fora do meu horario de trabalho, tendo disponibilidade também para projetos não remunerados, aqui um ranking das tecnologias que possuo afinidade:
 <table>
-  <tr valign="top">
+  <tr valign="top" align="center">
     <td>
       <div align="center"><strong>🧱 Padrões de Projeto</strong></div>
       <table width="250px">
