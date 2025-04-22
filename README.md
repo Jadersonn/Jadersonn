@@ -29,7 +29,6 @@ Estou sempre buscando novos conhecimentos, tenho disponibilidade para atuação 
         <tr><td>1</td><td>MVC</td></tr>
         <tr><td>2</td><td>DDD</td></tr>
       </table>
-       <td style="padding-left: 30px;">
       <div align="center"><strong>🎲 Banco de Dados</strong></div>
       <table>
         <tr><th>RANK</th><th>Banco de Dados</th></tr>
