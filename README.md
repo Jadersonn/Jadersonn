@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ## Olá 👋
-Me chamo Jaderson da Silva Pillar Martins. Sou soldado no exército brasileiro, até o dia 01/03/2026, integro a seção de TI na faixa de fronteira do Brasil com a Bolívia. Sou formado em Análise e desenvolvimento de sistemas pelo Instituto Federal de Mato Grosso do Sul.
-Minhas atribuições em minha organização militar são amplas e vão desde a manutenção de hardware até o gerenciamento da infraestrutura de ti. Atuo como desenvolvedor e gestor da pagina Web Intranet e Internet (utilizando o framework joomla), analista e administrador de rede da organização militar.
+Me chamo Jaderson da Silva Pillar Martins. Sou formado em Análise e desenvolvimento de sistemas pelo Instituto Federal de Mato Grosso do Sul.
+Servi ao exército brasileiro onde pertenci a seção de TI na faixa de fronteira do Brasil com a Bolívia. Minhas atribuições em minha organização militar foram amplas desde a manutenção de hardware até o gerenciamento da infraestrutura de ti. Atuei também como desenvolvedor e gestor da pagina Web Intranet e Internet (utilizando o framework joomla), analista e administrador de rede da organização militar.
 ##
-Estou sempre buscando novos conhecimentos, tenho disponibilidade para atuação fora do meu horario de trabalho, tendo disponibilidade também para projetos não remunerados, aqui um ranking das tecnologias que possuo afinidade:
+Estou sempre buscando novos conhecimentos, tenho disponibilidade para atuação projetos não remunerados, segue um ranking das tecnologias que possuo afinidade:
 <table>
   <tr valign="top" align="center">
     <td>
@@ -52,10 +52,11 @@ Estou sempre buscando novos conhecimentos, tenho disponibilidade para atuação 
         <tr><th>RANK</th><th>FRAMEWORKS</th></tr>
         <tr><td>1</td><td>JOOMLA</td></tr>
         <tr><td>2</td><td>LARAVEL</td></tr>
-        <tr><td>3</td><td>SPRING & SPRINGBOOT</td></tr>
-        <tr><td>4</td><td>HIBERNATE</td></tr>
+        <tr><td>3</td><td>SPRINGBOOT</td></tr>
+        <tr><td>4</td><td>SPRING</td></tr>
         <tr><td>5</td><td>FLUTTER</td></tr>
         <tr><td>6</td><td>BOOTSTRAP</td></tr>
+        <tr><td>3</td><td>HIBERNATE</td></tr>
       </table>
     </td>
   </tr>
