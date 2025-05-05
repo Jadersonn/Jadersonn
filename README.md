@@ -47,7 +47,7 @@ Estou sempre buscando novos conhecimentos, tenho disponibilidade para atuação 
       </table>
     </td>
     <td style="padding-left: 40px;">
-      <div align="center"><strong>🚀 Frameworks</strong></div>
+      <div align="center"><strong>🚀 Tecnologias</strong></div>
       <table>
         <tr><th>RANK</th><th>FRAMEWORKS</th></tr>
         <tr><td>1</td><td>JOOMLA</td></tr>
