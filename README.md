@@ -43,7 +43,7 @@ Estou sempre buscando novos conhecimentos, tenho disponibilidade para atuação 
         <tr><td>1</td><td>JAVA</td></tr>
         <tr><td>2</td><td>PHP</td></tr>
         <tr><td>3</td><td>PYTHON</td></tr>
-        <tr><td>4</td><td>C</td></tr>
+        <tr><td>4</td><td>C++</td></tr>
       </table>
     </td>
     <td style="padding-left: 40px;">
