@@ -56,7 +56,7 @@ Estou sempre buscando novos conhecimentos, tenho disponibilidade para atuação 
         <tr><td>4</td><td>SPRING</td></tr>
         <tr><td>5</td><td>FLUTTER</td></tr>
         <tr><td>6</td><td>BOOTSTRAP</td></tr>
-        <tr><td>3</td><td>HIBERNATE</td></tr>
+        <tr><td>7</td><td>HIBERNATE</td></tr>
       </table>
     </td>
   </tr>
