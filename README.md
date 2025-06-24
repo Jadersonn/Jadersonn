@@ -20,7 +20,7 @@ Me chamo Jaderson da Silva Pillar Martins. Sou formado em Análise e desenvolvim
 Servi ao exército brasileiro onde pertenci a seção de TI na faixa de fronteira do Brasil com a Bolívia. Minhas atribuições em minha organização militar foram amplas desde a manutenção de hardware até o gerenciamento da infraestrutura de ti. Atuei também como desenvolvedor e gestor da pagina Web Intranet e Internet (utilizando o framework joomla), analista e administrador de rede da organização militar.
 ##
 Estou sempre buscando novos conhecimentos, tenho disponibilidade para atuação projetos não remunerados, segue um ranking das tecnologias que possuo afinidade:
-<table>
+<table align="center">
   <tr valign="top" align="center">
     <td>
       <div align="center"><strong>🧱 Padrões de Projeto</strong></div>
